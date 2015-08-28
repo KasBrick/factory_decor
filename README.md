@@ -8,6 +8,10 @@ Description :
 -Some items and nodes are recyclables.
 -Contains IPN Beam, 3D metal ladder...
 
-Code and Textures :
--------------------
-CC0 1.0 <https://creativecommons.org/publicdomain/zero/1.0/>
+Code :
+------
+GPL v3
+
+Textures :
+----------
+CC-BY-SA 4.0
