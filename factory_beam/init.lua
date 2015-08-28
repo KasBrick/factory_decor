@@ -1,4 +1,5 @@
--- License for code and textures: CC0 1.0 <https://creativecommons.org/publicdomain/zero/1.0/>
+--Code : GPL v3
+--Textures : CC-BY-SA 4.0
 
 minetest.register_node('factory_beam:steel_beam', {
 	description = 'steel beam',
